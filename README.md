@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name Is md. Jahidul Islam Noman
 #### Programmer (Web)
-![Programmer (Web)](https://noman-it.com/assets/img/about/about.jpg)
+ <img align="center" height="200" width="1250" src="https://noman-it.com/noman_banner.png"/>
 
 I'm Completed B.Sc (Hons) in CSE.And I Completed Professional Training In Software (Web) Under IAC,Dept. Of CSE ,BUET.. I Am Expert Raw php, Laravel,Codigniter, Vue Js
 
